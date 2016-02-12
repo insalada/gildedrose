@@ -1,5 +1,5 @@
 # GildedRose Approach
-This is a quick approach for a kata modification approach taken from GildedRose Kata. In brief, it is a refactoring skills exercise.
+This is a quick approach for a kata modification from GildedRose Kata. In brief, it is a refactoring skills exercise.
 
 # Description
 
